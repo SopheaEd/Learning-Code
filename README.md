@@ -1,2 +1,2 @@
 # Learning-Code
-This aims to learn python and R code. 
+This aims to learn Python and R code. 
